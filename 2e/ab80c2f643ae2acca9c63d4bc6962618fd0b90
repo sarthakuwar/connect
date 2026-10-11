@@ -1,0 +1,81 @@
+src/components/Dashboard/index.jsx
+  s_9438ab0df9fa9b::t_bc019f3db4c70b 19,35-36
+  s_9438ab0df9fa9b::t_ae3a889dbca933 9-10,14,23,34,37-38,45-46
+src/initialState.js
+  s_9438ab0df9fa9b::t_ff10cb87ca795a 1,5-6,36,38,40
+src/reducers/location.test.js
+  s_9438ab0df9fa9b::t_a80dc17c3345e9 1-36,41-57
+  s_9438ab0df9fa9b::t_f62896a89ca744 37-40
+src/actions/index.js
+  s_9438ab0df9fa9b::t_e68f2db94debda 1,10,17-45,61,65,67,83-84,96,105,122-136,163-164,166-168,173,175-178,180-182,242-243,246-248,250-251,253-254
+src/reducers/location.js
+  s_9438ab0df9fa9b::t_e68f2db94debda 4,40
+  s_9438ab0df9fa9b::t_91a014846afbce 1-3,5-10,12-39,41-47
+  s_9438ab0df9fa9b::t_70ed35776dcddf 11
+src/actions/types.js
+  s_9438ab0df9fa9b::t_fe914a6d7d52ad 29
+src/components/Timeline/index.jsx
+  s_9438ab0df9fa9b::t_932f16f3e9c3a0 278
+src/reducers/globalState.js
+  s_9438ab0df9fa9b::t_ff10cb87ca795a 1-2,5,49-50
+  s_9438ab0df9fa9b::t_2b28b3387fa52f 30-44,364,366-369
+src/url.test.js
+  s_9438ab0df9fa9b::t_01ecea0c634cc8 3,6-8,10,12-26,30-44,46,48,50-62,65-67
+src/components/DriveView/index.jsx
+  s_9438ab0df9fa9b::t_e68f2db94debda 7,20-21
+  s_9438ab0df9fa9b::t_f62896a89ca744 55,57
+src/analytics.test.js
+  s_9438ab0df9fa9b::t_51377ede12e10b 1-3,5-37
+  s_9438ab0df9fa9b::t_01ecea0c634cc8 4
+src/actions/history.test.js
+  s_9438ab0df9fa9b::t_706550e73f8bb1 9-11
+  s_9438ab0df9fa9b::t_297a364f17c961 4,6-8,13,15,18-20,23-24,26-34,39-40,44,48-51,54-57,60-62,65-68,71-75,78-80,94-99,102-105
+  s_9438ab0df9fa9b::t_e89b0cec4a10f3 16-17,37-38,83-85,88-91
+src/analytics.js
+  s_9438ab0df9fa9b::t_966872dd52d176 99-123,130-132
+  s_9438ab0df9fa9b::t_932f16f3e9c3a0 7,12,17
+src/components/Dashboard/DeviceSettingsModal.jsx
+  s_9438ab0df9fa9b::t_ae3a889dbca933 17,228
+src/components/Dashboard/DeviceList.jsx
+  s_9438ab0df9fa9b::t_ae3a889dbca933 10,98
+src/App.test.jsx
+  s_9438ab0df9fa9b::t_372d8613538c90 149-150,308-310,313,315-322,324-326
+  s_9438ab0df9fa9b::t_b0eb218b0b1bdd 327-335
+  s_9438ab0df9fa9b::t_4cc6fc0fb69f2b 311-312,314,323
+src/components/Dashboard/DriveListItem.jsx
+  s_9438ab0df9fa9b::t_932f16f3e9c3a0 87
+src/timeline/segments.js
+  s_9438ab0df9fa9b::t_fe914a6d7d52ad 18-21
+src/actions/index.test.js
+  s_9438ab0df9fa9b::t_f62896a89ca744 2-3,10,12,16-30,32-40,43-45,48-55
+src/components/AppHeader/index.jsx
+  s_9438ab0df9fa9b::t_932f16f3e9c3a0 82
+  s_9438ab0df9fa9b::t_fd4c3855822b39 109,153
+src/url.js
+  s_9438ab0df9fa9b::t_7b98d3e1611a92 1-18,21-35,38,41-47
+src/App.jsx
+  s_9438ab0df9fa9b::t_932f16f3e9c3a0 12,81-83,132-133
+src/components/explorer.jsx
+  s_9438ab0df9fa9b::t_372d8613538c90 17-18,105,157,278
+src/actions/history.js
+  s_9438ab0df9fa9b::t_2b28b3387fa52f 8,70-77,105
+  s_9438ab0df9fa9b::t_181bfd6489b9ec 30,99
+  s_9438ab0df9fa9b::t_ec8286fe7443e0 1-5,7,9,11-27,29,31-35,37-43,45-48,50-59,61-68,79-86,88-94,96-98,106,108
+  s_9438ab0df9fa9b::t_efdcd91466c74a 100-101,103-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2eab80c2f643ae2acca9c63d4bc6962618fd0b90",
+  "prompts": {},
+  "sessions": {
+    "s_9438ab0df9fa9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fdfb70ac-efe7-4d53-ac01-66519036047a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
